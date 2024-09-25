@@ -1,4 +1,4 @@
-# Desafios e exercicos do Curso em Video
+# Desafios e exercicos do curso de HTML e CSS do Curso em Video
 
 Caso você não conheça, Curso em Video é um site e canal do YouTube que ensina várias coisas de tecnologia
 
